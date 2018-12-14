@@ -31,3 +31,7 @@ A collection of useful links to get started for visiting Seoul
 <http://www.letskorail.com>
 
 <https://krsim.net>
+
+# Cinema
+
+<http://cineinkorea.com/movie>
