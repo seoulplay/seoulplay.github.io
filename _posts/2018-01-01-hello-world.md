@@ -1,7 +1,7 @@
 ---
 layout: post
-title: Hello World!
+title: 안녕하세요
 excerpt_separator:  <!--more-->
 ---
 
-A and B are here! 
+A site (under construction) to share our tips and tricks for the city of Seoul
