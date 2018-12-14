@@ -23,14 +23,15 @@ A collection of useful links to get started for visiting Seoul
 
 <http://travel.cnn.com/seoul>
 
+# Phone
 
-# Transportation / Phone
+<https://krsim.net>
+
+# Transportation
 
 <http://www.seoulmetro.co.kr/en>
 
 <http://www.letskorail.com>
-
-<https://krsim.net>
 
 # Cinema
 
