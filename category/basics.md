@@ -23,6 +23,22 @@ A collection of useful links to get started for visiting Seoul
 
 <http://travel.cnn.com/seoul>
 
+### Blogs
+
+<https://www.youtube.com/user/blurrysmiles>
+
+<https://www.youtube.com/user/koreanenglishman>
+
+[https://www.youtube.com/user/foodieboy](https://www.youtube.com/channel/UCe1ZsGtbRx2pgajGzwB9L0A)
+
+### Cinema
+
+<http://cineinkorea.com/movie>
+
+## Language
+
+<https://www.youtube.com/user/talktomeinkorean>
+
 ### Phone
 
 <https://krsim.net>
@@ -32,7 +48,3 @@ A collection of useful links to get started for visiting Seoul
 <http://www.seoulmetro.co.kr/en>
 
 <http://www.letskorail.com>
-
-### Cinema
-
-<http://cineinkorea.com/movie>
