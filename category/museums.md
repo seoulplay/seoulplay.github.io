@@ -9,7 +9,7 @@ title: Museums
 
 _Where:_ Yongsan
 
-_How:_ Hangangjin Station (Line 6), exit 1
+_How:_ Hangangjin Station (line 6), exit 1
 
 _When:_ 10:30-18:00; closed on Mondays
 
