@@ -3,6 +3,19 @@ layout: category
 title: Museums 
 ---
 
+### Leeum, Samsung Museum of Art
+
+<http://leeum.samsungfoundation.org/html_eng/global/main.asp>
+
+_Where:_ Yongsan
+
+_How:_ Hangangjin Station (Line 6), exit 1
+
+_When:_ 10:30-18:00; closed on Mondays
+
+_Why:_ Perfect mix of traditional Korean art and modern international art.
+
+------
 ### National Museum of Korea
 
 <https://www.museum.go.kr/site/eng/home>
