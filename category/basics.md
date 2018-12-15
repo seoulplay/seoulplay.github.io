@@ -5,7 +5,7 @@ title: Basics
 
 A collection of useful links to get started for visiting Seoul
 
-# Travel guides
+### Travel guides
 
 <https://www.lonelyplanet.com/south-korea/seoul>
 
@@ -23,16 +23,16 @@ A collection of useful links to get started for visiting Seoul
 
 <http://travel.cnn.com/seoul>
 
-# Phone
+### Phone
 
 <https://krsim.net>
 
-# Transportation
+### Transportation
 
 <http://www.seoulmetro.co.kr/en>
 
 <http://www.letskorail.com>
 
-# Cinema
+### Cinema
 
 <http://cineinkorea.com/movie>
