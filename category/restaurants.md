@@ -3,14 +3,6 @@ layout: category
 title: Restaurants 
 ---
 
-### Guides
-
-<https://www.mangoplate.com>
-
-<https://www.happycow.net>
-
-----
-
 ### BaB (밥)
 
 <https://www.trazy.com/spot/334/bab-밥-restaurant-cafe>
