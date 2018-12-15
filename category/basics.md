@@ -41,6 +41,14 @@ A collection of useful links to get started for visiting Seoul
 
 ----
 
+### Food Guides
+
+<https://www.mangoplate.com>
+
+<https://www.happycow.net>
+
+----
+
 ### Language
 
 <https://www.youtube.com/user/talktomeinkorean>
