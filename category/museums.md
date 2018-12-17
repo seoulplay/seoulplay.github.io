@@ -55,6 +55,6 @@ _How:_ Gyeongbokgung station, exit 3.Take bus 1020 or 7212 and get off at Buam-d
 
 _When:_ 10:00-18:00; closed on Mondays
 
-_Why:_ Introduction to Kim Whanki's abstract work.
+_Why:_ Introduction to Kim Whanki's lovely abstract work.
 
 ------
