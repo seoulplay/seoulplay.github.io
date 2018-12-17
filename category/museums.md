@@ -16,6 +16,7 @@ _When:_ 10:30-18:00; closed on Mondays
 _Why:_ Perfect mix of traditional Korean art and modern international art.
 
 ------
+
 ### National Museum of Korea
 
 <https://www.museum.go.kr/site/eng/home>
@@ -30,4 +31,30 @@ _Why:_ Historical overview of Korea through artefacts, ceramics and paintings.
 
 ------
 
+### National Museum of Modern and Contemporary Art (MMCA Seoul branch)
 
+<http://www.mmca.go.kr/eng/>
+
+_Where:_ Jongno
+
+_How:_ Anguk station (line 3), exit 1
+
+_When:_ 10:00-18:00 (until 21:00 on Fri,Sat)
+
+_Why:_ Walking around this huge space can be almost as fun as the _very_ contemporary exhibitions.
+
+------
+
+### Whanki Museum
+
+<http://whankimuseum.org/eng/>
+
+_Where:_ Jongno
+
+_How:_ Gyeongbokgung station, exit 3.Take bus 1020 or 7212 and get off at Buam-dong Resident Center.
+
+_When:_ 10:00-18:00; closed on Mondays
+
+_Why:_ Introduction to Kim Whanki's abstract work.
+
+------
