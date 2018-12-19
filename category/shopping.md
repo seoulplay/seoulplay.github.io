@@ -50,17 +50,3 @@ _When:_ 12:30 - 19:30
 _Why:_ Brighten up your lifestyle 
 
 ------
-
-------
-
-### 10x10
-
-<http://www.10x10.co.kr>
-
-_Where:_ Hyehwa
-
-_When:_ 12:30 - 19:30
-
-_Why:_ Brighten up your lifestyle 
-
-------
