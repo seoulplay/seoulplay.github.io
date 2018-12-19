@@ -19,7 +19,7 @@ A collection of useful links to get started for visiting Seoul
 
 <http://www.seoulsync.com>
 
-<http://wikitravel.org/en/Seoul> 
+<http://wikitravel.org/en/seoul> 
 
 <http://travel.cnn.com/seoul>
 
