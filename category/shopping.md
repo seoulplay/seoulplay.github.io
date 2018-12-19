@@ -15,14 +15,52 @@ _Why:_ All of the cute objects that you deserve
 
 ------
 
-### I Hate Monday
+### Kyobo Books
 
-<https://www.instagram.com/ihatemondaysocks>
+<https://en.wikipedia.org/wiki/Kyobo_Book_Centre>
 
-_Where:_ Hapjeong (near Sangsu station) 
+_Where:_ Jongno (flahship store)
+
+_When:_ 09:30 - 22:00
+
+_Why:_ Stock up on books, stationery, and even K-pop
+
+------
+
+### Millimeter Milligram
+
+<http://mmmg.net>
+
+_Where:_ Itaewon 
+
+_When:_ 11:30 - 20:00
+
+_Why:_ Impossible to leave this design store empty handed 
+
+------
+
+### 10x10
+
+<http://www.10x10.co.kr>
+
+_Where:_ Hyehwa
 
 _When:_ 12:30 - 19:30
 
-_Why:_ Socks that aren't boring 
+_Why:_ Brighten up your lifestyle 
+
+------
+
+------
+
+### 10x10
+
+<http://www.10x10.co.kr>
+
+_Where:_ Hyehwa
+
+_When:_ 12:30 - 19:30
+
+_Why:_ Brighten up your lifestyle 
 
 ------
