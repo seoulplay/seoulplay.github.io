@@ -38,3 +38,15 @@ _When:_ 24 hours
 _Why:_ Great coffee for late night studying and early morning jetlag
 
 ------
+
+### 5Extracts
+
+<https://www.thecoffeechaser.com/five-extracts-coffee>
+
+_Where:_ Hongdae 
+
+_When:_ 10:00 - 22:00
+
+_Why:_ Relaxed and spacious location with serious coffee 
+
+------
