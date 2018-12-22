@@ -15,11 +15,24 @@ _Why:_ All of the cute objects that you deserve
 
 ------
 
+
+### Custom Mellow 
+
+<http://customellow.com>
+
+_Where:_ Hongdae (flagship store)
+
+_When:_ 10:00 - 20:30
+
+_Why:_ Men's fashion with a Korean twist 
+
+------
+
 ### Kyobo Books
 
 <https://en.wikipedia.org/wiki/Kyobo_Book_Centre>
 
-_Where:_ Jongno (flahship store)
+_Where:_ Jongno (flagship store)
 
 _When:_ 09:30 - 22:00
 
