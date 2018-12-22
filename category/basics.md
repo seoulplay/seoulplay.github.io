@@ -9,6 +9,8 @@ A collection of useful links to get started for visiting Seoul
 
 <https://www.lonelyplanet.com/south-korea/seoul>
 
+<https://www.herenow.city/en/seoul/>
+
 <https://monocle.com/travel/seoul>
 
 <http://english.visitkorea.or.kr>
@@ -18,10 +20,6 @@ A collection of useful links to get started for visiting Seoul
 <http://www.timeout.com/seoul>
 
 <http://www.seoulsync.com>
-
-<http://wikitravel.org/en/seoul> 
-
-<http://travel.cnn.com/seoul>
 
 ----
 
