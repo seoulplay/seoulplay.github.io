@@ -28,6 +28,18 @@ _Why:_ Men's fashion with a Korean twist
 
 ------
 
+### Granhand 
+
+<http://granhand.com>
+
+_Where:_ Buckchon
+
+_When:_ 10:30 - 19:30
+
+_Why:_ Multi-purpose fragrances with a warm glow  
+
+------
+
 ### Kyobo Books
 
 <https://en.wikipedia.org/wiki/Kyobo_Book_Centre>
@@ -49,6 +61,18 @@ _Where:_ Itaewon
 _When:_ 11:30 - 20:00
 
 _Why:_ Impossible to leave this design store empty handed 
+
+------
+
+### Soohang Candles
+
+<https://soohyang.seoul.kr/en/scent>
+
+_Where:_ Gangnam (flagship store)
+
+_When:_ 11:00 - 20:00
+
+_Why:_ Beautiful packaging and custom lettering in the pink house 
 
 ------
 
