@@ -7,11 +7,36 @@ title: Restaurants
 
 <https://www.trazy.com/spot/334/bab-밥-restaurant-cafe>
 
-_Where:_ Edae (in front of Ewha University gate)
+_Where:_ Edae (Ewha University front gate)
 
 _When:_ 11am-9pm 
 
 _Why:_ Nourishing Korean staples with home-cooked feeling 
+
+----
+
+### Lord Sandwich  
+
+<https://www.facebook.com/pages/Lord-Sandwich/236932726357171>
+
+_Where:_ Edae (Ewha University side gate) 
+
+_When:_ 10:30am-8:30pm
+
+_Why:_ Great bread in Rococo surroundings
+
+----
+
+
+### Oh Se Gae Hyang
+
+<https://www.happycow.net/reviews/oh-se-gae-hyang-seoul-10860>
+
+_Where:_ Insadong
+
+_When:_ 11:30am-9:00pm
+
+_Why:_ A chance for vegans to eat Korean dumpling and noodle dishes 
 
 ----
 

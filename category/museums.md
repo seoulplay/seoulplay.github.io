@@ -3,6 +3,20 @@ layout: category
 title: Museums 
 ---
 
+### Korea Furniture Museum 
+
+<http://www.kofum.com>
+
+_Where:_ Seongbuk
+
+_How:_ Hansung University (line 4), exit 5
+
+_When:_ Reserve tour in advance (Tue - Sat)
+
+_Why:_ Beautiful and mysterious.
+
+------
+
 ### Leeum, Samsung Museum of Art
 
 <http://leeum.samsungfoundation.org/html_eng/global/main.asp>
